@@ -21,6 +21,8 @@ Os títulos utilizam a mesma notação HTML (h1 a h6), onde h1 é o título maio
 - `#####Título 5`
 - `######Título 6`
 
+> Para destacar um texto ou título precisamos começar a linha com o símbolo de `>`.
+
 ### Código e instruções de programação
 Códigos e instruções são representados envolvendo eles por \`crase\`, por exemplo, `console.log('oi')`. 
 As instruções que ocupam mais de uma linha podem ser representadas usando três \`\`\`, por exemplo,
@@ -45,18 +47,16 @@ def somar(a,b):
 select * from tbcliente where idade > 21;
 ```
 
-
-
-
 ### Listas
 A listas podem ser sem ordem ou ordenadas:
-* Cada item da lista sem ordem é criado com um asterístico `*` no início da linha;
+* Cada item da lista sem ordem é criado com um asterístico `*` ou `-` no início da linha;
 * Para criar uma sublista é necessário adicionar uma tabulação `<Tab>`:
-  * No início dessa linha tem um `<Tab>` seguido por um `*`.
+  * No início dessa linha tem um `<Tab>` seguido por `*` ou `-`.
 
 Lista ordenada:
 1. Cada item é iniciado por um número seguido por `.`;
 2. O próximo item da lista já é completado pelo editor do GitHub.
+
 
 ### Negrito e itálico
 Use o `**` ou `__` para formatar negrito e `*` ou `_`para itálico.
