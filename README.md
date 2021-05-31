@@ -2,6 +2,9 @@
 O arquivo Readme.md é utilizado para apresentar as soluções do projeto mantido no repositório no formato de uma página de internet. O README é um arquivo com a extensão MD (MarkDown).
 
 ## Carregar imagem
+\#\#\#\\ Carregar imagem
+#### Carregar imagem
+###### Carregar imagem
 
 ![Texto alternativo para a imagem](https://github.com/arleysouza/exemplo-github-2/blob/main/banner.png)
 
@@ -51,11 +54,13 @@ select * from tbcliente where idade > 21;
 A listas podem ser sem ordem ou ordenadas:
 * Cada item da lista sem ordem é criado com um asterístico `*` ou `-` no início da linha;
 * Para criar uma sublista é necessário adicionar uma tabulação `<Tab>`:
-  * No início dessa linha tem um `<Tab>` seguido por `*` ou `-`.
+  * No início dessa linha tem um `<Tab>` seguido por `*` ou `-`
+  * Segundo item da sublista.
 
 Lista ordenada:
 1. Cada item é iniciado por um número seguido por `.`;
-2. O próximo item da lista já é completado pelo editor do GitHub.
+2. O próximo item da lista já é completado pelo editor do GitHub;
+3. As listas podem ter textos e [links](https://github.com/jquery/jquery).
 
 
 ### Negrito e itálico
@@ -69,4 +74,4 @@ _Exemplo de itálico_ usou a marcação `_Exemplo de itálico_`.
 
 *Outra opção de itálico* usou a marcação `*Outra opção de itálico*`.
 
-!(https://github.com/arleysouza/exemplo-github-2/blob/main/banner.png)
+<u>Texto sublinhado</u>
