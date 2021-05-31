@@ -74,4 +74,3 @@ _Exemplo de itálico_ usou a marcação `_Exemplo de itálico_`.
 
 *Outra opção de itálico* usou a marcação `*Outra opção de itálico*`.
 
-<u>Texto sublinhado</u>
