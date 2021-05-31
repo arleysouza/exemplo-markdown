@@ -2,9 +2,6 @@
 O arquivo Readme.md é utilizado para apresentar as soluções do projeto mantido no repositório no formato de uma página de internet. O README é um arquivo com a extensão MD (MarkDown).
 
 ## Carregar imagem
-\#\#\#\\ Carregar imagem
-#### Carregar imagem
-###### Carregar imagem
 
 ![Texto alternativo para a imagem](https://github.com/arleysouza/exemplo-github-2/blob/main/banner.png)
 
