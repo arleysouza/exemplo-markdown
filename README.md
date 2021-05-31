@@ -3,7 +3,7 @@ O arquivo Readme.md é utilizado para apresentar as soluções do projeto mantid
 
 ## Carregar imagem
 
-![Text alt (alternativo) para a imagem](https://github.com/arleysouza/exemplo-github-2/blob/main/banner.png)
+![Texto alternativo para a imagem](https://github.com/arleysouza/exemplo-github-2/blob/main/banner.png)
 
 Para adicionar uma imagem no README.md é necessário antes carregar ela na lista de arquivos do projeto. Essa imagem foi obtida [aqui](https://digitalinnovation.one/artigos/como-fazer-login-corretamente-no-github-pelo-terminal).
 
@@ -69,4 +69,4 @@ _Exemplo de itálico_ usou a marcação `_Exemplo de itálico_`.
 
 *Outra opção de itálico* usou a marcação `*Outra opção de itálico*`.
 
-
+!(https://github.com/arleysouza/exemplo-github-2/blob/main/banner.png)
