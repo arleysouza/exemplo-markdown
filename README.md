@@ -22,7 +22,31 @@ Os títulos utilizam a mesma notação HTML (h1 a h6), onde h1 é o título maio
 - `######Título 6`
 
 ### Código e instruções de programação
-Códigos e instruções são representados envolvendo eles por \`acento ao contrário\`, por exemplo, `console.log('oi')`. 
+Códigos e instruções são representados envolvendo eles por \`crase\`, por exemplo, `console.log('oi')`. 
+As instruções que ocupam mais de uma linha podem ser representadas usando três \`\`\`, por exemplo,
+```
+function somar(a,b){
+ return a + b;
+}
+```
+Podemos especificar a linguagem de programação para realçar a sintaxe:
+```javascript
+// JavaScript
+function somar(a,b){
+ return a + b;
+}
+```
+```python
+# Python
+def somar(a,b):
+ return a + b;
+```
+```sql
+select * from tbcliente where idade > 21;
+```
+
+
+
 
 ### Listas
 A listas podem ser sem ordem ou ordenadas:
