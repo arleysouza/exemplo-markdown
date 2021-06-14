@@ -73,3 +73,21 @@ _Exemplo de itálico_ usou a marcação `_Exemplo de itálico_`.
 
 **_Negrito e itálico_** usou a marcação `**_Negrito e itálico_**`
 
+### Tabela
+Para criar uma tabela é necessário usar hifens (`-`) e barras verticais (`|`). Para criar o cabeçalho são necessários três ou mais hifens (`---`) e para separar as colunas use barras verticais (`|`). A seguir tem-se o código da tabela e para mais detalhes acesse (https://www.markdownguide.org/extended-syntax/):
+
+| Nome | Idade |
+| --- | ----- |
+| Ana | 21 |
+| Pedro | 25 |
+| Maria | 22 |
+
+Para criar a tabela usou-se o seguinte código:
+```
+| Nome | Idade |
+| --- | ----- |
+| Ana | 21 |
+| Pedro | 25 |
+| Maria | 22 |
+```
+
