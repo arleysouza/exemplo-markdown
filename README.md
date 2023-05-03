@@ -57,7 +57,7 @@ A listas podem ser sem ordem ou ordenadas:
 Lista ordenada:
 1. Cada item é iniciado por um número seguido por `.`;
 2. O próximo item da lista já é completado pelo editor do GitHub;
-3. As listas podem ter textos e [links](https://github.com/jquery/jquery){:target="_blank" rel="noopener"}.
+3. As listas podem ter textos e [links](https://github.com/jquery/jquery).
 
 
 ### Negrito e itálico
